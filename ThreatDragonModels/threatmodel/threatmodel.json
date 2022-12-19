@@ -1,0 +1,23 @@
+{
+  "summary": {
+    "title": "threatmodel",
+    "owner": "demo",
+    "description": "demo"
+  },
+  "detail": {
+    "contributors": [
+      {
+        "name": "demo"
+      }
+    ],
+    "diagrams": [
+      {
+        "title": "demo",
+        "thumbnail": "./public/content/images/thumbnail.stride.jpg",
+        "diagramType": "STRIDE",
+        "id": 0
+      }
+    ],
+    "reviewer": "demo"
+  }
+}
