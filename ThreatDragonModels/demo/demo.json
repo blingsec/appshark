@@ -13,7 +13,59 @@
         "title": "demo",
         "thumbnail": "./public/content/images/thumbnail.stride.jpg",
         "diagramType": "STRIDE",
-        "id": 0
+        "id": 0,
+        "diagramJson": {
+          "cells": [
+            {
+              "type": "tm.Process",
+              "size": {
+                "width": 100,
+                "height": 100
+              },
+              "position": {
+                "x": 309,
+                "y": 178
+              },
+              "angle": 0,
+              "id": "6c73bb54-d573-401f-9014-48a70c64b465",
+              "z": 1,
+              "attrs": {
+                "text": {
+                  "text": "process 0"
+                }
+              }
+            },
+            {
+              "type": "tm.Boundary",
+              "size": {
+                "width": 10,
+                "height": 10
+              },
+              "smooth": true,
+              "source": {
+                "x": 30,
+                "y": 20
+              },
+              "target": {
+                "x": 638,
+                "y": 251
+              },
+              "vertices": [
+                {
+                  "x": 122,
+                  "y": 372
+                }
+              ],
+              "id": "2f8c2e2d-1c68-4daa-940e-e36504d90aaf",
+              "z": 2,
+              "attrs": {}
+            }
+          ]
+        },
+        "size": {
+          "height": 590,
+          "width": 790
+        }
       }
     ]
   }
